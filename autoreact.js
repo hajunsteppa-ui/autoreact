@@ -5,7 +5,7 @@ const dataPath = path.join(__dirname, "autoreact.json");
 
 let data = {
   autoReactStatus: {},
-  customAdmins: ["61581474855159"]
+  customAdmins: ["61589579422366"]
 };
 
 if (fs.existsSync(dataPath)) {
